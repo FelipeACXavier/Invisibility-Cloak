@@ -7,5 +7,5 @@ So before the effect works, photos need to be taken from the location and a colo
 As it is based on color detection, the code works better in a well-lighted environments.
 
 Based on the code provided by LearnOpenCV
-Youtube:https://www.youtube.com/watch?v=YLnP2Ge65MU
-Blog post: https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
+<br />Youtube:https://www.youtube.com/watch?v=YLnP2Ge65MU
+<br />Blog post: https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
